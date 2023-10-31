@@ -1,8 +1,10 @@
 {
   "name": "hire-framework",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Small Framework focused on build hire test apps.",
   "main": "dist/index.js",
+  "repository": {"url": "https://github.com/adahox/hire-framework"},
+  "types": "./src/index.d.ts",
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules --no-notify src/index.ts"
