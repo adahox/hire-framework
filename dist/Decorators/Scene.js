@@ -44,3 +44,4 @@ const Scene = (scene) => (cls) => {
     window.customElements.define(scene.selector, cls);
 };
 exports.Scene = Scene;
+//# sourceMappingURL=Scene.js.map

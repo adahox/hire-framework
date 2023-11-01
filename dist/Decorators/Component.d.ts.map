@@ -1,0 +1,1 @@
+{"version":3,"file":"Component.d.ts","sourceRoot":"","sources":["../../src/Decorators/Component.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,UAAU;IACvB,QAAQ,EAAE,MAAM,CAAC;IACjB,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,SAAS,CAAC,EAAE,OAAO,CAAA;CACtB;AAcD,eAAO,MAAM,SAAS,WAAY,UAAU,WAAW,GAAG,SAsBzD,CAAA"}

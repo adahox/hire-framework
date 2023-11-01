@@ -30,3 +30,4 @@ const Component = (object) => (cls) => {
     window.customElements.define(object.selector, cls);
 };
 exports.Component = Component;
+//# sourceMappingURL=Component.js.map

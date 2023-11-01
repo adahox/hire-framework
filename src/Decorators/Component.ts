@@ -1,4 +1,4 @@
-interface IComponent {
+export interface IComponent {
     selector: string,
     templateUrl: string,
     style?: string,

@@ -1,4 +1,4 @@
-interface IModules {
+export interface IModules {
     imports: any[],
     bootstrap?: any[]
 }

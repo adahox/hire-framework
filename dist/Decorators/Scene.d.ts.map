@@ -1,0 +1,1 @@
+{"version":3,"file":"Scene.d.ts","sourceRoot":"","sources":["../../src/Decorators/Scene.ts"],"names":[],"mappings":"AACA,UAAU,eAAe;IACrB,QAAQ,EAAE,MAAM,CAAC;IACjB,WAAW,EAAE,MAAM,CAAC;IACpB,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,SAAS,CAAC,EAAE,OAAO,CAAC;IACpB,MAAM,CAAC,EAAE,GAAG,EAAE,CAAA;CACjB;AAcD,eAAO,MAAM,KAAK,UAAW,eAAe,WAAW,GAAG,SA+DzD,CAAA"}

@@ -29,3 +29,4 @@ class RegisterElement {
     }
 }
 exports.default = RegisterElement;
+//# sourceMappingURL=RegisterElement.js.map
