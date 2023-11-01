@@ -1,10 +1,6 @@
-import { IModules } from "./Decorators/Modules";
-import { IComponent } from "./Decorators/Component";
-import  "./Decorators/Component";
+import "./Decorators/Component";
 import "./Decorators/Modules";
+import "./Types/index";
 
-declare function Modules(config: IModules): any;
-declare function Component(config: IComponent): any;
-
-exports.module = Modules;
-exports.module = Component;
+export { Component } from './Decorators/Component'
+export { Modules } from './Decorators/Modules'
